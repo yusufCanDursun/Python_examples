@@ -1,0 +1,10 @@
+.env
+
+__pycache__/
+*.pyc
+
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
